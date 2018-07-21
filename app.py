@@ -48,9 +48,9 @@
 from flask import Flask, render_template
 app = Flask(__name__)
  
-@app.route('/intro')
+@app.route('/')
 def load_page():
     return render_template('tast_camp.html')
  
 if __name__ == '__main__':
-	app.run(port=6001,debug=True)
+	app.run(debug=True)
