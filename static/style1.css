@@ -1,0 +1,54 @@
+#my_name{
+	color: yellow;
+	font-size: 80px;
+	border : solid;
+
+	text-align: center;
+
+	margin: 30px;
+	padding: 30px
+
+
+}
+
+#Hello{
+	color: white;
+	font-size: 60px;
+
+	text-align: center;
+	font-family: sans-serif;
+	padding: 30px;
+
+
+
+}
+
+#br{
+	text-align: center;
+	color: black;
+	font-family: serif;
+	font-size: 70px;
+	list-style: none;
+
+}
+
+#img{
+	width: 1000px;
+	margin: auto;
+	display: block;
+
+
+}
+
+.bd{
+
+	background-image: url('pic1.jpg');
+}
+#But{
+
+	font-size: 60px;
+	margin: auto;
+	display: block;
+
+
+}
